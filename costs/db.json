@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "id": "0a3e",
+      "name": "DEV FRONTEND JUNIOR",
+      "budget": "1500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a30e",
+      "name": "Contabilidade",
+      "budget": "950",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 300,
+      "services": [
+        {
+          "name": "RH",
+          "cost": "300",
+          "Description": "Auxiliar adm",
+          "id": "906bada9-ded8-4045-8c3d-23e2af6799c0"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "1",
+      "name": "Design"
+    },
+    {
+      "id": "1",
+      "name": "Planejamento"
+    }
+  ]
+}
